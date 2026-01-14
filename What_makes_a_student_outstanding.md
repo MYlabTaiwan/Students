@@ -19,3 +19,5 @@
 | **Graduation** | Does not graduate until the **complete thesis is submitted and fully satisfactory**; delays are expected if progress is insufficient. | May **not graduate on time** due to slow progress or incomplete research output. | Graduates **on time or early** with a strong thesis and publication record. |
 | **Funding** | Funding or salary may be **reduced or discontinued** if progress does not improve. | Retains **baseline funding** as initially agreed, contingent on continued participation. | May receive **additional support**, travel funding, or extended funding based on performance. |
 | **Letters of recommendation** | Advisor does **not provide letters** if performance and professionalism are insufficient. | Receives an **honest letter** that may discuss limitations and areas for improvement. | Receives **strong advocacy**, networking support, and active help with applications. |
+
+Adapted from a memo by Dr. R. Hughes, UMI, to his graduate students, dated 16 December 2003.
