@@ -4,6 +4,7 @@
 
 | Characteristic | Disappointing Student | Mediocre Student | Outstanding Student |
 | :--- | :--- | :--- | :--- |
+|**Work attitude**| Avoid advisor and run out the clock| Do chores until advisor decides to let them graduate| Considers research as their main job and  responsibility|
 | **Work habits** | Shows **inconsistent effort**; frequently unavailable during core hours; avoids time-sensitive work; often leaves tasks unfinished or delayed. | Has a **rigid "9 to 5" view** of research and is unwilling to work evenings or weekends; arrives late, surfs the web, and takes long breaks; takes **shortcuts** on experiments to save time. | **Uses time efficiently** and works non-standard hours as needed; ensures all work meets the **highest standards**; **proactively initiates** research tasks. |
 | **Journal reading** | **Rarely reads** the literature unless repeatedly reminded; lacks awareness of recent or relevant work in the field. | Only reads articles that are **provided by the advisor** or other students. | **Actively and continuously** performs independent literature searches to find relevant journal articles. |
 | **Research hypothesis** | Does not engage deeply with data; waits passively for direction and avoids forming interpretations or questions. | Is content to work only on the **hypotheses developed by the advisor** or others. | **Independently assesses data** and formulates original hypotheses based on observed phenomena. |
